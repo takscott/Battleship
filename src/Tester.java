@@ -41,5 +41,6 @@ public class Tester {
 		System.out.println("ColumnIndex : "+bruhfour.columnIndex());
 		System.out.println("toString : "+bruhfour.toString());
 		
+		System.out.println("gamer");
 	}
 }
